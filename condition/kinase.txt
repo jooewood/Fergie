@@ -1,0 +1,1 @@
+250<=MW & MW<=600 & -2<=logP & logP<=6 & HBD<=5 & HBA<=10 & TPSA<=200 & NRB<=10 & MCF==True

@@ -1,0 +1,1 @@
+266<=MW & MW<=670 & -2.22<=logP & logP<=4.87 & HBD<=6 & HBA<=14 & TPSA<=231.7 & NRB<=14 & MCF==True

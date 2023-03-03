@@ -1,0 +1,1 @@
+204.3<MW & MW<928.6 & 0.8<logP & logP<8.8 & 2<=HBA & HBA<=11 & 2<=rings & rings<=7 & MCF==True

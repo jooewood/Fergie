@@ -1,0 +1,1 @@
+1.49<=logP & logP<=6 & 400<=MW & MW<=800 & 1<= HBD & HBD<=10 & 2<= HBA & HBA<=10 & 80 <= TPSA & TPSA<=210
